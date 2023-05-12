@@ -1,2 +1,2 @@
 # PrepCourse-Hnery
-Este es un proyecto de prueba
+Este es mi primer proyecto de prueba en Soy Henry
